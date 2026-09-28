@@ -115,6 +115,6 @@ This is a prototype. The backend generates and stores the custodian and signer p
 - Never commit `.env` files or anything in `backend/data/`. Both are gitignored.
 - If a Pinata JWT is ever exposed, revoke it and create a new one.
 
-## Future scope
+## To be added to make it scaleable for all digital assets
 
 AI-configured deployments for new use cases, a full W3C DID implementation, a time-lock puzzle as a second protection layer, a decentralized time oracle, Merkle-tree batching, and a formal security audit.
